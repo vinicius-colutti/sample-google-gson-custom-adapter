@@ -1,0 +1,30 @@
+{
+  "title": "News",
+  "description": "About news :)",
+  "active": true,
+  "link": {
+    "linkType": "GITHUB",
+    "url": "https://github.com",
+    "user": "vinicius-colutti",
+    "branch": "main"
+  },
+  "subCategories": [
+    {
+      "title": "Technology",
+      "description": "About Technology :)",
+      "active": true,
+      "link": {
+        "linkType": "GOOGLE",
+        "link": "https://www.livemint.com/technology/tech-news/brazils-tech-can-help-india-reach-20-ethanol-blending-11699979180440.html",
+        "websiteOwner": "livemint",
+        "metadata": [
+          "Brazil",
+          "Tech",
+          "Ethanol",
+          "India"
+        ]
+      },
+      "subCategories": null
+    }
+  ]
+}
